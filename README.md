@@ -1,8 +1,4 @@
-# webpack-template
-Template to use webpack merged and with image compatibility quickly
+# Jest testing example
+A series of tests for functions made to test the jest enviornment.
 
-To install dependencies run `npm install` command.
-
-To start a web server that updates with code changes, use `npm run start` command.
-
-To build the project run `npm run build` command.
+Install dependencies using `npm install`, then run tests using `npm test`
